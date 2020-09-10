@@ -4,7 +4,7 @@ using System.Text;
 
 namespace P3_Code
 {
-    interface IAppUser
+    public interface IAppUser
     {
         bool Login(string UserName, string Password);
 
