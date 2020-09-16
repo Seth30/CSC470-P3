@@ -26,13 +26,13 @@ namespace P3_Code
                     LastName = "Bishop",
                     EmailAddress = "Dave.Bishop@dsu.edu",
                     IsAuthenticated = true
-                }) ;
+                });
             }
         }
-        public List<AppUser> GetAll() 
+        public List<AppUser> GetAll()
         {
             List<AppUser> users = new List<AppUser>();
-            foreach(KeyValuePair<string, AppUser> user in AppUsers)
+            foreach (KeyValuePair<string, AppUser> user in AppUsers)
             {
                 users.Add(user.Value);
             }
@@ -50,8 +50,9 @@ namespace P3_Code
 
         public AppUser GetByUserName(string UserName)
         {
-            throw new NotImplementedException();
+            AppUser user;
+            bool ignore = AppUsers.TryGetValue(UserName, out user);
+            return user;
         }
-
     }
 }
