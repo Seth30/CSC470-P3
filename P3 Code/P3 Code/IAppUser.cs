@@ -10,8 +10,8 @@ namespace P3_Code
 
         List<AppUser> GetAll();
 
-        void SetAuthentication(string UserName, bool IsAuthenticated);
+        void SetAuthentication(string UserName, bool IsAuthenticated); 
 
-        AppUser GetByUserName(string UserName);
+        AppUser GetByUserName(string UserName); 
     }
 }
