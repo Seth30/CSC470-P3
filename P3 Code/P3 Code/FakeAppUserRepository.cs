@@ -29,21 +29,15 @@ namespace P3_Code
                 }) ;
             }
         }
-
-        private string GetUserName()
+        public List<AppUser> GetAll() 
         {
-            throw new NotImplementedException();
+            List<AppUser> users = new List<AppUser>();
+            foreach(KeyValuePair<string, AppUser> user in AppUsers)
+            {
+                users.Add(user.Value);
+            }
+            return users;
         }
-        public List<AppUser> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public AppUser GetByUserName(string UserName)
-        {
-            throw new NotImplementedException();
-        }
-
         public bool Login(string UserName, string Password)
         {
             throw new NotImplementedException();
@@ -53,5 +47,11 @@ namespace P3_Code
         {
             throw new NotImplementedException();
         }
+
+        public AppUser GetByUserName(string UserName)
+        {
+            throw new NotImplementedException();
+        }
+
     }
 }
