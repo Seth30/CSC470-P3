@@ -40,12 +40,33 @@ namespace P3_Code
         }
         public bool Login(string UserName, string Password)
         {
-            throw new NotImplementedException();
+            AppUser user;
+            if(AppUsers.TryGetValue(UserName, out user))
+            {
+                if (user.Password == Password)
+                {
+                    SetAuthentication(UserName, true);
+                    return true;
+                }
+                else
+                {
+                    SetAuthentication(UserName, false);
+                    return false;
+                }
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public void SetAuthentication(string UserName, bool IsAuthenticated)
         {
-            throw new NotImplementedException();
+            AppUser user;
+            if(AppUsers.TryGetValue(UserName, out user))
+            {
+                user.IsAuthenticated = IsAuthenticated;
+            }
         }
 
         public AppUser GetByUserName(string UserName)
