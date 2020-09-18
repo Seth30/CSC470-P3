@@ -1,0 +1,16 @@
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\bin\Debug\UnitTestFakeAppUserRepository.dll
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\bin\Debug\UnitTestFakeAppUserRepository.pdb
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\bin\Debug\P3 Code.dll
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\bin\Debug\P3 Code.pdb
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\obj\Debug\UnitTestFakeAppUserRepository.csprojAssemblyReference.cache
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\obj\Debug\UnitTestFakeAppUserRepository.csproj.CoreCompileInputs.cache
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\obj\Debug\UnitTestFakeAppUserRepository.csproj.CopyComplete
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\obj\Debug\UnitTestFakeAppUserRepository.dll
+C:\Users\DSU\Source\Repos\Seth30\CSC470-P3\P3 Code\UnitTestFakeAppUserRepository\obj\Debug\UnitTestFakeAppUserRepository.pdb

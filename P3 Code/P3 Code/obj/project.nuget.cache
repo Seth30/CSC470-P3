@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "FT/YWcUTCZZ5kKbkyuvVGWMMZHpwOcfkzqYHmdkPf8FTwP506ooS3/0RqHSonKQYcPiyq/lW6bjWeG4TSz1YqA==",
+  "dgSpecHash": "clbY+6xwGelPCR+3oVllk4G4fOoX+Yq9DMkzmLEyhksKSQUudpi1QESi7QPSyCqVibY//EBsCVMWBXRIqJjwRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DSU\\Source\\Repos\\Seth30\\CSC470-P3\\P3 Code\\P3 Code\\P3 Code.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\DSU\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DSU\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
