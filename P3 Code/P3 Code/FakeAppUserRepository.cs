@@ -18,7 +18,7 @@ namespace P3_Code
             if (AppUsers == null)
             {
                 AppUsers = new Dictionary<string, AppUser>();
-                AppUsers.Add("UserName", new AppUser
+                AppUsers.Add("DaveBish", new AppUser
                 {
                     UserName = "DaveBish",
                     Password = "iLoveSoftware",
